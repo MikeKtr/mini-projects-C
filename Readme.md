@@ -3,13 +3,13 @@
 This repository contains a collection of mini-projects developed for the Operating Systems course. The assignments focus on low-level Unix system programming using C, covering process management, inter-process communication (IPC), multi-threading, and networking.
 
 ## Table of Contents
-1. [Processes](#1. Processes (`lab01`))
-2. [Signals](#2-signals)
-3. [Pipes](#3-pipes)
-4. [Message Queues](#4-message-queues)
-5. [Semaphores and Shared Memory](#5-semaphores-and-shared-memory)
-6. [Threads](#6-threads)
-7. [Sockets](#7-sockets)
+1. [Processes](#1-processes-lab01)
+2. [Signals](#2-signals-lab02)
+3. [Pipes](#3-pipes-lab03)
+4. [Message Queues](#4-message-queues-lab04)
+5. [Semaphores and Shared Memory](#5-semaphores-and-shared-memory-lab05)
+6. [Threads](#6-threads-lab06)
+7. [Sockets](#7-sockets-lab07)
 
 ---
 
